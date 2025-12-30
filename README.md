@@ -1,4 +1,6 @@
 🎆 Happy New Year Fireworks – Animated Canvas Experience
+
+
 This project is a visually elegant New Year landing page built with pure HTML, CSS, and JavaScript. It combines a minimalistic black background with a shiny, golden “Happy New Year” headline and a fully animated fireworks display rendered on an HTML5 canvas.
 The fireworks animation is based on a particle system. Each firework explosion generates multiple particles that spread out from a random position near the top of the screen. Every particle has its own velocity, size, color, and lifetime, creating a natural and dynamic explosion effect. By using semi-transparent background clearing, the animation produces smooth motion trails, enhancing the realism of the fireworks.
 The canvas automatically adjusts to the full size of the browser window and responds to resizing events, ensuring a consistent fullscreen experience across different screen sizes and devices. The animation loop is driven by requestAnimationFrame for optimal performance and smooth frame rendering.
