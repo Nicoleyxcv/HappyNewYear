@@ -6,3 +6,7 @@ The fireworks animation is based on a particle system. Each firework explosion g
 The canvas automatically adjusts to the full size of the browser window and responds to resizing events, ensuring a consistent fullscreen experience across different screen sizes and devices. The animation loop is driven by requestAnimationFrame for optimal performance and smooth frame rendering.
 The golden text effect is created using CSS gradients, text clipping, glowing shadows, and subtle shimmer animations. This results in a polished metallic look that stands out against the dark background while remaining elegant and festive.
 Overall, this project demonstrates how powerful visual effects can be achieved using vanilla web technologies, without external libraries or frameworks. It is ideal as a New Year greeting page, a creative coding experiment, or a showcase project for canvas animations and CSS text effects.
+
+
+Uploading Bildschirmaufnahme 2025-12-30 um 18.09.13.mov…
+
