@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+    overflow: hidden;
+    font-family: "Georgia", serif;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5rem;
+  font-weight: bold;
+  background: linear-gradient(
+    45deg,
+    #b8860b,
+    #ffd700,
+    #fff1a8,
+    #ffd700,
+    #b8860b
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow:
+    0 0 10px rgba(255, 215, 0, 0.6),
+    0 0 25px rgba(255, 215, 0, 0.4);
+  animation: shimmer 3s infinite;
+  z-index: 10;
+}
+
+@keyframes shimmer {
+  0% { filter: brightness(1); }
+  50% { filter: brightness(1.4); }
+  100% { filter: brightness(1); }
+}
