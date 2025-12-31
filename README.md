@@ -8,5 +8,7 @@ The golden text effect is created using CSS gradients, text clipping, glowing sh
 Overall, this project demonstrates how powerful visual effects can be achieved using vanilla web technologies, without external libraries or frameworks. It is ideal as a New Year greeting page, a creative coding experiment, or a showcase project for canvas animations and CSS text effects.
 
 
-Uploading Bildschirmaufnahme 2025-12-30 um 18.09.13.mov…
+
+
+https://github.com/user-attachments/assets/0c48522d-42e1-40cd-bb35-d63451cd493d
 
